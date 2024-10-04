@@ -6,19 +6,31 @@ Software Engineering Student.
 ### **Monterrey,Mexico** **Fall'26 Gen**
 
 ## 🎓 About Me
-Soy Estudiante de Segundo año de Ingenieria en Tecnologías Computacionales del Tec de Monterrey Campus Monterrey.
-Mi viaje en este campo ha sido emocionante y con un gran camino por recorrer,  este repositorio es un reflejo de mi dedicación y entusiasmo por aprender y crecer en el ámbito de la ingeniería en tecnologias computacionales
+I am currently a second-year student in Computer Science and Technology at Tec de Monterrey, Monterrey Campus. 
+My journey in this field has been both challenging and rewarding, and I am excited to continue exploring the vast world of technology. This repository is a reflection of my dedication to learning and growing as a software engineer.
 
-### ⚡Pasión y Disciplina
-Mi pasión por la tecnología va más allá de las aulas; el tener objetivos y metas claras me impulsan a enfrentar desafíos y a abrazar nuevas ideas. Soy un creyente ferviente de que la disciplina es la clave del éxito, y estoy comprometido a mantener un enfoque constante y riguroso en mi aprendizaje y desarrollo profesional.
+### 🏆 Professional Highlights
+Frontend Software Engineer Intern at Intellsis
+Technologies: React, Three.js, CSS
+Developed reusable React components, enhancing app scalability and improving user experience across devices. Optimized rendering with Three.js, reducing times by 25% and boosting interaction with complex data
 
-### 🔭 Objetivo
-Mi objetivo es utilizar mis conocimientos para no solo avanzar en mi carrera, sino también para aportar de manera significativa a mi entorno. Creo en el poder transformador de la tecnología y estoy decidido a ser un agente de cambio, creando soluciones innovadoras que beneficien a la comunidad.
+Hackathon Winner
+Project: Machine Learning Predictive Model with TensorFlow
+Created a solution to identify product preferences, leveraging data insights to improve marketing strategies and deliver targeted promotions.
 
-### 🌱 Unete a mi viaje!
-Te invito a unirte a mí mientras persigo proyectos desafiantes y significativos. Tu colaboración y feedback son fundamentales para mi crecimiento. Juntos, podemos apoyarnos y desarrollar un futuro impulsado por la tecnología, donde cada línea de código cuenta.
+Partnered with Leading Companies
+Contributed to high-impact projects alongside industry leaders, where I honed my technical expertise and helped drive forward-thinking solutions. My experiences have enriched my skills and reinforced my commitment to creating meaningful technological advancements.
 
-¡Gracias por explorar mi repositorio y ser parte de mi viaje!
+### ⚡Passion & Discipline
+My love for technology goes beyond the classroom; setting clear goals and objectives drives me to embrace new challenges and ideas. I firmly believe that discipline is the key to success, and I am committed to maintaining a consistent and rigorous approach to my learning and professional development.
+
+### 🔭 Objective
+My goal is to utilize my knowledge not only to advance my career but also to make a positive impact on the world around me. I believe in the transformative power of technology and am determined to be a change-maker, creating innovative solutions that benefit communities.
+
+### 🌱 Join Me on My Journey
+I invite you to join me as I tackle meaningful and challenging projects. Your collaboration and feedback are crucial to my growth. Together, we can build a technology-driven future where every line of code makes a difference
+
+Thank you for exploring my repository and being part of my journey!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-larrieta-47975a2a3/)
@@ -29,21 +41,25 @@ Te invito a unirte a mí mientras persigo proyectos desafiantes y significativos
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=101010) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=101010)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
 
 ## Developer Tools: 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=101010)
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelCol0or=101010)]()
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 ## Libraries/Frameworks: 
 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
 
 
 <!--
