@@ -3,7 +3,7 @@
 ## Yo 💫
 Hola mi nombre es Luis Diego Domínguez Larrieta 👋
 Software Engineering Student.
-### **Monterrey,Mexico** **Fall'26 Gen**
+### **Monterrey,Mexico** 
 
 ## 🎓 About Me
 I am currently a second-year student in Computer Science and Technology at Tec de Monterrey, Monterrey Campus. 
